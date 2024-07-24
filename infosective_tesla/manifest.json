@@ -1,0 +1,10 @@
+{
+  "domain": "infosective_tesla",
+  "name": "Infosective Tesla",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
